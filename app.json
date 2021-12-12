@@ -63,7 +63,7 @@
             "required": false
         },
         "CUSTOM_FILE_CAPTION": {
-            "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
+            "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read https://t.me/GetTGLink/4536 for better understanding.",
             "required": false
         },
         "DATABASE_URI": {
@@ -89,7 +89,7 @@
             "required": false
         },
         "SINGLE_BUTTON": {
-            "description": "choose b/w single or double buttons https://github.com/EvamariaTG/EvaMaria/issues/22",
+            "description": "Check - https://github.com/EvamariaTG/EvaMaria/issues/22 and, Type True - Single Button False - 2 Buttons.",
             "required": false
         },
         "P_TTI_SHOW_OFF": {
